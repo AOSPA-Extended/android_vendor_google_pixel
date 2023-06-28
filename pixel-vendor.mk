@@ -97,6 +97,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     MarkupGoogle \
     SoundPickerPrebuilt \
+    SafetyHubPrebuilt \
+    SecurityHubPrebuilt \
     FilesPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     Flipendo
